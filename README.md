@@ -1,2 +1,2 @@
 # Repo
-Hello from reade me
+Hello from read me
